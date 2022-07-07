@@ -22,7 +22,7 @@
     "create-react-app": "^3.0.1",
     "luna-react": "https://cdn.luna.js-devops.co.uk/pkg/luna-react/v3.52.5.tgz",
     "luna-style": "https://cdn.luna.js-devops.co.uk/pkg/luna-style/v2.41.4.tgz",
-    "moment": "^2.24.0",
+    "moment": "^2.29.4",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
     "react-google-maps": "^9.4.5",
